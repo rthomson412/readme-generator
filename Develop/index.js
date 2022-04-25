@@ -86,25 +86,12 @@ const questions = [{
     type: 'list',
     message: 'Licenses(s) for project:',
     name: 'License',
-    choices: ["MIT", "Apache-2.0", "Creative Commons 1.0", "GPLv3", "WTFPL"],
+    choices: ["MIT", "Apache-2.0", "GPLv3"],
     validate: licenseInput => {
         if (licenseInput) {
             return true;
         } else {
             console.log('Add license(s) if applicable.');
-            return false;
-        }
-    }
-},
-{
-    type: 'input',
-    message: 'Add badges (if desired):',
-    name: 'Badges',
-    validate: badgesInput => {
-        if (badgesInput) {
-            return true;
-        } else {
-            console.log('Associated badges for project.');
             return false;
         }
     }
