@@ -15,17 +15,16 @@ function generateLicense(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `# ${data.Title}
   ## Table of Contents
 
   * [Description](#Description)
   * [Installation](#Installation)
-  * [Usage](#Usage)
+  * [Usage](#Usage)s
   * [License](#License)
   * [Contributing](#Contributing)
-  * [Test](#Test)
-  * [Screenshot](#screenshot)
-  * [Deployment](#deployment)
+  * [Tests](#Tests)
+  * [Questions](#Questions)
   </br>
   </br>
   
@@ -45,12 +44,12 @@ function generateMarkdown(data) {
   ${generateLicense(data.License)}
   </br>
   
-  ## Test
-  ${data.Test}
+  ## Tests
+  ${data.Tests}
   </br>
   
-  ## Contributing
-  ${data.Contributing}
+  ## Questions
+  ${data.Questions}
   </br>
   </br>
   

@@ -112,7 +112,7 @@ const questions = [{
 {
     type: 'input',
     message: 'Guidance for testing application:',
-    name: 'Test',
+    name: 'Tests',
     validate: testInput => {
         if (testInput) {
             return true;
