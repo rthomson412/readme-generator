@@ -1,9 +1,9 @@
-# undefined
+# READme GENERATOR
   ## Table of Contents
 
   * [Description](#Description)
   * [Installation](#Installation)
-  * [Usage](#Usage)
+  * [Usage](#Usage)s
   * [License](#License)
   * [Contributing](#Contributing)
   * [Tests](#Tests)
@@ -12,31 +12,31 @@
   </br>
   
   ## Description
-  sdbsdb
+  Uses prompts then generates a GitHub ReadMe file
   </br>
   
   ## To use this application, please install:
-  * sdbsdbs
+  * Node Inquirer
   </br>
   
   ## Usage
-  sdbsdvb
+  Tread Carefully
   </br>
   
   ## License 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
   </br>
   
   ## Tests
-  dsv
+  None yet
   </br>
   
   ## Questions
-  svd
+  None yet
   </br>
   </br>
   
   # CONTACT:
   Github: rthomson412
-  Email: kdnvasv
+  Email: rthomson412@gmail.com
   
