@@ -1,4 +1,4 @@
-# v
+# EXAMPLE
   ## Table of Contents
 
   * [Description](#Description)
@@ -12,15 +12,15 @@
   </br>
   
   ## Description
-  dav
+  EXAMPLE
   </br>
   
   ## To use this application, please install:
-  * adv
+  * EXAMPLE
   </br>
   
   ## Usage
-  dv
+  EXAMPLE
   </br>
   
   ## License 
@@ -28,15 +28,15 @@
   </br>
   
   ## Tests
-  dv
+  EXAMPLE
   </br>
   
   ## Questions
-  dv
+  EXAMPLE
   </br>
   </br>
   
   # CONTACT:
-  Github: BLAH
-  Email: fv
+  Github: EXAMPLE
+  Email: EXAMPLE@EXAMPLE.COM
   
