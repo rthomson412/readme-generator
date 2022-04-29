@@ -1,4 +1,4 @@
-# JEWBVJEWBVJLEWBVJLWEVB
+# READme Generator
   ## Table of Contents
 
   * [Description](#Description)
@@ -12,15 +12,15 @@
   </br>
   
   ## Description
-  VNLJWBVJLWENVKLWENVKLEWNVLNWE
+  Generates ReadMe file as a Command Line Application
   </br>
   
   ## To use this application, please install:
-  * WJELBVLJWBVLJEWBVJWEBV
+  * node > inquirer
   </br>
   
   ## Usage
-  LVNEWLJVNLWENVKLEWNVKWEN
+  follow prompts
   </br>
   
   ## License 
@@ -28,15 +28,15 @@
   </br>
   
   ## Tests
-  JWEBVLJEWBVLKEWNVKLWENVLWE
+  To follow
   </br>
   
   ## Questions
-  JWBVLJWNVLEWNVKLEWNVLKEWNV
+  To follow
   </br>
   </br>
   
   # CONTACT:
-  Github: JKEBVOWJEBVIWIEOBVWB
-  Email: JWKBVJQEBVKJEQWVKLWEBVJEWBVJKW
+  Github: rthomson412
+  Email: rthomson412@gmail.com
   
