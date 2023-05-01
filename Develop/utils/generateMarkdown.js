@@ -51,7 +51,6 @@ function generateMarkdown(data) {
   ## Questions
   ${data.Questions}
   </br>
-  </br>
   
   # CONTACT:
   Github: ${data.Github}
