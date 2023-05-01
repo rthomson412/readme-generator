@@ -32,7 +32,7 @@ function generateMarkdown(data) {
   ${data.Description}
   </br>
   
-  ## To use this application, please install:
+  ## To use application, please install:
   * ${data.Installation}
   </br>
   
