@@ -18,7 +18,7 @@ function generateMarkdown(data) {
   return `# ${data.Title}
   ## Table of Contents
 
-  * [Description](#Description)
+  * [Description](##Description)
   * [Installation](#Installation)
   * [Usage](#Usage)s
   * [License](#License)
