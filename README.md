@@ -16,5 +16,3 @@ Clone repository, navigate to the develop folder and type 'node index' in the co
 ## Built With
 * JavaScript
 * Node.js
-
-## Screenshots
