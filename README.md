@@ -1,10 +1,6 @@
-## **Video Link to Walkthrough
-https://drive.google.com/file/d/14rfAT78bEToVKuR-83yDjNH92xSGH9jU/view
 
 ## Description
 A Node.js application that generates a READme file from the command line.
-            
-View the deployed page at 
 
 ## Contents
 * [Installation](#installation)
